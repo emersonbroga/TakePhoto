@@ -2,6 +2,12 @@
 
 IOs App that uses the camera with a custom camera view to take photos. Also get pictures from the device's library. And for last it displays the images in a smart grid.
 
+# Demo
+[![TakePhoto](http://img.youtube.com/vi/4SJjJgp0oqc/0.jpg)](https://www.youtube.com/watch?v=4SJjJgp0oqc "TakePhoto")
+
+
+![TakePhoto](https://github.com/emersonbroga/TakePhoto/blob/master/examples/screenshots/001.gif)
+
 # Screenshots
 
 ![TakePhoto](https://github.com/emersonbroga/TakePhoto/blob/master/examples/screenshots/001.PNG)
