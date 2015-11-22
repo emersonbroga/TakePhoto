@@ -12,18 +12,18 @@ iOS App that uses the camera with custom buttons to take photos. Also get pictur
 
 # Screenshots
 
-![TakePhoto](https://github.com/emersonbroga/TakePhoto/blob/master/examples/screenshots/001.PNG)
+![TakePhoto](https://github.com/emersonbroga/TakePhoto/blob/master/examples/screenshots/001.PNG =250x)
 
-![TakePhoto](https://github.com/emersonbroga/TakePhoto/blob/master/examples/screenshots/002.PNG)
+![TakePhoto](https://github.com/emersonbroga/TakePhoto/blob/master/examples/screenshots/002.PNG =250x)
 
-![TakePhoto](https://github.com/emersonbroga/TakePhoto/blob/master/examples/screenshots/003.PNG)
+![TakePhoto](https://github.com/emersonbroga/TakePhoto/blob/master/examples/screenshots/003.PNG =250x)
 
-![TakePhoto](https://github.com/emersonbroga/TakePhoto/blob/master/examples/screenshots/004.PNG)
+![TakePhoto](https://github.com/emersonbroga/TakePhoto/blob/master/examples/screenshots/004.PNG =250x)
 
-![TakePhoto](https://github.com/emersonbroga/TakePhoto/blob/master/examples/screenshots/005.PNG)
+![TakePhoto](https://github.com/emersonbroga/TakePhoto/blob/master/examples/screenshots/005.PNG =250x)
 
-![TakePhoto](https://github.com/emersonbroga/TakePhoto/blob/master/examples/screenshots/006.PNG)
+![TakePhoto](https://github.com/emersonbroga/TakePhoto/blob/master/examples/screenshots/006.PNG =250x)
 
-![TakePhoto](https://github.com/emersonbroga/TakePhoto/blob/master/examples/screenshots/007.PNG)
+![TakePhoto](https://github.com/emersonbroga/TakePhoto/blob/master/examples/screenshots/007.PNG =250x)
 
-![TakePhoto](https://github.com/emersonbroga/TakePhoto/blob/master/examples/screenshots/008.PNG)
+![TakePhoto](https://github.com/emersonbroga/TakePhoto/blob/master/examples/screenshots/008.PNG =250x)
